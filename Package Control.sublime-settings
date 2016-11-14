@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Angular 2 Snippets (John Papa)",
+		"AngularJS",
+		"Babel",
+		"Color Highlighter",
+		"Colorsublime",
+		"Compare Side-By-Side",
+		"GitGutter",
+		"Gutter Color",
+		"Jasmine JS",
+		"JSHint Gutter",
+		"Markdown Preview",
+		"Package Control",
+		"Predawn",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Interstellar",
+		"TypeScript",
+		"View In Browser"
+	]
+}

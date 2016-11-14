@@ -1,0 +1,26 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Oceanic_Next (SL).tmTheme",
+	"draw_minimap_border": true,
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": true,
+	"predawn_sidebar_medium": true,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_small": true,
+	"rulers":
+	[
+		0,
+		80
+	],
+	"tab_size": 2,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "true",
+	"wrap_width": 80
+}
